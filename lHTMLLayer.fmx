@@ -1,0 +1,7 @@
+object HTMLLayer: THTMLLayer
+  Align = Client
+  Size.Width = 602.000000000000000000
+  Size.Height = 465.000000000000000000
+  Size.PlatformDefault = False
+  OnPaint = FramePaint
+end
